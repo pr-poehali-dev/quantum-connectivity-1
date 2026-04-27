@@ -29,7 +29,7 @@ export default function Hero() {
       <div className="relative z-10 text-center text-white">
         <p className="text-sm md:text-base uppercase tracking-[0.3em] mb-4 opacity-80">Свежая доставка с поля</p>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          СОЧНЫЕ<br/>АРБУЗЫ
+          АРТЫКБАЕВ<br/>КАДЫРАЛИ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90 mb-8">
           Отборные арбузы прямо с бахчи — спелые, сладкие и доставленные к вашей двери
